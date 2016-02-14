@@ -8,6 +8,8 @@ gem 'sqlite3', group: [:development, :test]
 
 gem 'spring', group: [:development, :production]
 
+gem 'devise', '3.4.1'
+
 #use bootstrap library for styles
 gem 'bootstrap-sass','3.3.1'
 #use fontawesome library for icons
