@@ -1,6 +1,4 @@
-== README
-
-Dev Match
+== Dev Match
 
 Subscription-based web application
 
